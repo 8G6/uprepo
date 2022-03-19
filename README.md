@@ -12,5 +12,5 @@ git clone https://github.com/8G6/uprepo.git
 ```
 newrepo
 ```
-#Enter commit message
-#Press enter and wait
+1. Enter commit message
+2. Press enter and wait
