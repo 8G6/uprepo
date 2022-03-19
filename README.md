@@ -8,7 +8,7 @@ git clone https://github.com/8G6/uprepo.git
 ```
 ## Copy uprepo.bat to system32 (enter system32 in the windows file exploer dir bar to goto system 32 )
 # Usage
-## Go to the folder you want to push and open cmd there and type uprepo
+## Go to the folder you want to commit and open cmd there and type uprepo
 ```
 newrepo
 ```
